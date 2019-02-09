@@ -9,4 +9,6 @@ fun main() {
     val surName ="Kok"
 
     val schoolName ="İstanbul Okan Üniversitesi"
+
+    val schoolNumber = 1341
 }
