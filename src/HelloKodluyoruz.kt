@@ -8,5 +8,5 @@ fun main() {
     val name : String = "Melih"
     val surName ="Kok"
 
-
+    val schoolName ="İstanbul Okan Üniversitesi"
 }
